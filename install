@@ -1,0 +1,10 @@
+
+
+
+$ npm install -g expo-cli
+
+
+
+Création d'une CRNA : 
+
+$ expo init nomprojet
