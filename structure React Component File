@@ -1,0 +1,8 @@
+
+import libraries we need to create a component 
+
+create a component a function that returns 'JSX'
+
+create a stylesheet to style our component 
+
+export the component in our project
